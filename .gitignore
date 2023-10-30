@@ -1,2 +1,6 @@
 .DS_Store
 *.csv
+venv
+.vscode
+__pycache__
+.coverage

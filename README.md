@@ -15,3 +15,12 @@ Run `psql enchanted_forest -f seed.sql` to fill the database with starting data.
 ## Entity-relationship diagram
 
 [Link](https://drawsql.app/teams/sigma-labs/diagrams/enchanted-forest)
+
+## Development
+
+`python app.py` runs the server on port `5000`.
+
+## Quality control
+
+- `pytest`
+- `pylint *.py`
